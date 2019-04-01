@@ -8,6 +8,7 @@
 
 Library::Library()
 {
+
 }
 
 void Library::add_book(std::string title)

@@ -4,6 +4,7 @@
 #include "Employees.h"
 #include "Date.h"
 
-Books::Books()
+Books::Books(std::string inputTitle)
 {
+	title = inputTitle;
 }

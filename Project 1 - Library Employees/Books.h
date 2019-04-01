@@ -6,9 +6,9 @@ private:
 	Date circStart;
 	Date cirEnd;
 	bool archived;
-	std::queue<employees> waitList;
+	std::queue<Employees> waitList;
 public:
-	Books();
+	Books(std::string inputTitle);
 
 };
 
