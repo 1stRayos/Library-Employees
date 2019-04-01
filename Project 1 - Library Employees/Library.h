@@ -1,10 +1,4 @@
-#include <queue>
-#include <list>
-#include <string>
-#include "Books.h"
-#include "Employees.h"
-#include "Date.h"
-
+#pragma once
 class Library
 {
 private:
